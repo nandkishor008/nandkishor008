@@ -262,7 +262,7 @@ full-stack architecture and interactive financial dashboards.
 React · Node.js · MongoDB · Bootstrap · Material UI
 
 <p align="center">
-<a href="https://github.com/nandkishor008/Full-Stack-Trading-Platform">
+<a href="https://github.com/nandkishor008/Full-Stack-Trading-Platform-">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
