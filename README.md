@@ -8,9 +8,7 @@
 
 <!-- HERO BANNER -->
 
-<img src="./a_cinematic_high_tech_futuristic_3d_digital_work.png" width="100%" alt="Nandkishor Kumar Pandit - Full Stack Developer"/>
 
-<br/><br/>
 
 <!-- NAME -->
 
