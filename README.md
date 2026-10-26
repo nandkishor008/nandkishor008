@@ -7,6 +7,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
+<img src="./a_cinematic_high_tech_futuristic_3d_digital_work.png" width="100%" alt="Nandkishor Kumar Pandit - Full Stack Developer"/>
+
+<br/><br/>
 
 
 
@@ -148,7 +151,7 @@ simplify shared expenses, group balances, and settlements.
 React · Node.js · Express · MongoDB
 
 <p align="center">
-<a href="https://github.com/nandkishor008/SplitDash">
+<a href="https://split-dash-gqnf.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -184,7 +187,7 @@ score management, monthly prize draws, and charitable contributions.
 React · Node.js · Express · Supabase
 
 <p align="center">
-<a href="https://github.com/nandkishor008/digital-heroes">
+<a href="https://digital-heroes-six-eta.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -224,7 +227,7 @@ vacation rental listings.
 Node.js · Express · MongoDB · Mongoose · EJS
 
 <p align="center">
-<a href="https://github.com/nandkishor008/Wanderlust">
+<a href="https://wanderlust-i75q.onrender.com/listings">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
