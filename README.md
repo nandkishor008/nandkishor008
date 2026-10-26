@@ -1,274 +1,317 @@
 
+<!-- ===================================================== -->
+<!--              NANDKISHOR KUMAR PANDIT                 -->
+<!--             PROFESSIONAL GITHUB README                -->
+<!-- ===================================================== -->
+
 <div align="center">
+
+<!-- HERO BANNER -->
 
 <img src="./a_cinematic_high_tech_futuristic_3d_digital_work.png" width="100%" alt="Nandkishor Kumar Pandit - Full Stack Developer"/>
 
+<br/><br/>
+
+<!-- NAME -->
+
+<h1>Nandkishor Kumar Pandit</h1>
+
+<h3>Full Stack Developer · IIT Gandhinagar Graduate</h3>
+
+<p>
+Building modern, scalable and user-focused web applications.
+</p>
+
 <br/>
 
-# NANDKISHOR KUMAR PANDIT
-
-### Full Stack Web Developer | IIT Gandhinagar Graduate
-
-Building modern web applications with React, Node.js, Express and MongoDB.
-
-<br/>
+<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.upwork.com/freelancers/~0128c29586f8863304">
-<img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/Ltbc57sboI/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:kishornandu008@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Real+World+Applications;IIT+Gandhinagar+Graduate"/>
+<!-- ANIMATED INTRO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Animated developer introduction"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-FULL%20STACK%20OPPORTUNITIES-58A6FF?style=flat-square"/>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ABOUT -->
 
-## ABOUT ME
+## About Me
 
-</div>
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=nandkishor008&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
 
-I'm **Nandkishor Kumar Pandit**, a Full Stack Web Developer and B.Tech graduate from IIT Gandhinagar.
+I'm **Nandkishor Kumar Pandit**, a Full Stack Web Developer and B.Tech graduate from **Indian Institute of Technology Gandhinagar**.
 
-I enjoy building practical web applications, developing responsive user interfaces, designing backend APIs, and integrating databases to create complete software solutions.
+I specialize in building complete web applications, from responsive frontend interfaces to backend APIs and database integration.
 
-My development experience includes full-stack application development, authentication, REST APIs, database management, and deployment.
+My development experience includes:
 
-I focus on writing maintainable code, solving real-world problems, and continuously improving my software engineering skills.
+- Building full-stack web applications using the MERN stack.
+- Developing responsive and interactive user interfaces.
+- Designing RESTful APIs and backend services.
+- Implementing authentication and authorization.
+- Working with relational and NoSQL databases.
+- Deploying applications and managing development workflows.
 
-<div align="center">
+I enjoy solving practical problems, building useful products, and continuously improving my software development skills.
 
-<img src="https://img.shields.io/badge/IIT-GANDHINAGAR-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-161B22?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROBLEMS-300%2B-FFA116?style=flat-square"/>
-
-</div>
+<br clear="right"/>
 
 ---
 
-<div align="center">
+<!-- TECHNOLOGY STACK -->
 
-## TECH STACK
+## Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
+
+<br/><br/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
+
+<br/><br/>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technologies"/>
 
-### Tools & Technologies
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode&theme=dark"/>
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- PROJECTS -->
 
-## FEATURED PROJECTS
+## Featured Projects
 
-<sub>Selected full-stack applications and development work</sub>
-
-</div>
+<p align="center">
+Selected full-stack applications demonstrating frontend development,
+backend engineering, database integration, and application architecture.
+</p>
 
 <table>
 <tr>
+
+<!-- SPLITDASH -->
+
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">SplitDash</h3>
 
-### SplitDash
+<p align="center">
+<img src="https://img.shields.io/badge/EXPENSE%20MANAGEMENT-58A6FF?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-GROUP%20EXPENSES-58A6FF?style=flat-square"/>
+<p>
+A full-stack group expense management application designed to
+simplify shared expenses, group balances, and settlements.
+</p>
 
-</div>
+**Key Features**
 
-A full-stack expense sharing application for organizing trips, recording shared expenses, calculating balances, and simplifying settlements.
-
-**Highlights**
-
-- Trip-based group management
-- Friends and shared expenses
+- Group and trip management
+- Shared expense tracking
 - Equal, exact, and percentage splits
 - Individual balance calculations
-- Simplified settlement transactions
-- Responsive React dashboard
+- Settlement management
+- Responsive dashboard
 
-**Technology**
+**Tech Stack**
 
 React · Node.js · Express · MongoDB
 
-<div align="center">
-
-<a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-161B22?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/nandkishor008/SplitDash">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 </td>
+
+<!-- DIGITAL HEROES -->
 
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">Digital Heroes</h3>
 
-### Digital Heroes
+<p align="center">
+<img src="https://img.shields.io/badge/GOLF%20%26%20CHARITY-58A6FF?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-GOLF%20%26%20CHARITY-58A6FF?style=flat-square"/>
+<p>
+A subscription-based golf and charity platform featuring
+score management, monthly prize draws, and charitable contributions.
+</p>
 
-</div>
+**Key Features**
 
-A golf subscription and charity platform featuring score management, monthly prize draws, and charity contributions.
+- Authentication and access control
+- Subscriber and administrator workflows
+- Golf score management
+- Monthly draw functionality
+- Winner and jackpot management
+- Backend API integration
 
-**Highlights**
+**Tech Stack**
 
-- JWT authentication
-- Subscriber and administrator access
-- Rolling five-score system
-- Monthly draw logic
-- Multiple winners and jackpot rollover
-- REST APIs for subscriptions, scores, draws, and charities
+React · Node.js · Express · Supabase
 
-**Technology**
-
-React · Node.js · Express · PostgreSQL · Supabase
-
-<div align="center">
-
-<a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-161B22?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/nandkishor008/digital-heroes">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
+<!-- WANDERLUST -->
+
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">Wanderlust</h3>
 
-### Wanderlust
+<p align="center">
+<img src="https://img.shields.io/badge/TRAVEL%20PLATFORM-58A6FF?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-TRAVEL%20PLATFORM-58A6FF?style=flat-square"/>
+<p>
+An Airbnb-inspired web application for discovering and managing
+vacation rental listings.
+</p>
 
-</div>
+**Key Features**
 
-An Airbnb-inspired web application for managing vacation rental listings, uploading images, and exploring properties.
-
-**Highlights**
-
+- Property listing management
 - Create, edit, and delete listings
-- Authentication with Passport.js
+- User authentication
 - Session management
+- Image upload integration
 - Location-based filtering
-- Image uploads using Multer
-- Cloud image storage with Cloudinary
 
-**Technology**
+**Tech Stack**
 
 Node.js · Express · MongoDB · Mongoose · EJS
 
-<div align="center">
-
-<a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-161B22?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/nandkishor008/Wanderlust">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 </td>
+
+<!-- TRADING PLATFORM -->
 
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">Full Stack Trading Platform</h3>
 
-### Trading Platform
+<p align="center">
+<img src="https://img.shields.io/badge/FINTECH%20APPLICATION-58A6FF?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-FULL%20STACK-58A6FF?style=flat-square"/>
+<p>
+A Zerodha-inspired trading application developed to explore
+full-stack architecture and interactive financial dashboards.
+</p>
 
-</div>
+**Key Features**
 
-A Zerodha-inspired trading application developed to explore full-stack architecture, interactive frontend components, and backend integration.
-
-**Highlights**
-
-- React-based interface
+- React-based frontend
+- Interactive dashboard
 - Backend API integration
 - Database-driven application
-- Interactive dashboard components
+- Responsive user interface
 
-**Technology**
+**Tech Stack**
 
 React · Node.js · MongoDB · Bootstrap · Material UI
 
-<div align="center">
-
-<a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-161B22?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/nandkishor008/Full-Stack-Trading-Platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<!-- GITHUB ANALYTICS -->
+
+## GitHub Analytics
+
 <div align="center">
 
-## GITHUB ANALYTICS
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nandkishor008&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nandkishor008&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishor008&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishor008&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nandkishor008&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=nandkishor008&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+<!-- CONTRIBUTIONS -->
+
+## Contribution Activity
+
 <div align="center">
 
-## CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandkishor008&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandkishor008&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- LEETCODE -->
 
-## PROBLEM SOLVING
+## Problem Solving
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Ltbc57sboI/">
 
-<img src="https://img.shields.io/badge/LEETCODE-300%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
 
 </a>
 
@@ -280,13 +323,17 @@ Practicing Data Structures and Algorithms in C++.
 
 ---
 
+<!-- EDUCATION -->
+
+## Education
+
 <div align="center">
 
-## EDUCATION
+### Indian Institute of Technology Gandhinagar
 
-**Indian Institute of Technology Gandhinagar**
+**Bachelor of Technology**
 
-B.Tech. Mechanical Engineering
+Mechanical Engineering
 
 2022 – 2026
 
@@ -294,32 +341,31 @@ B.Tech. Mechanical Engineering
 
 ---
 
+<!-- CONNECT -->
+
+## Let's Connect
+
 <div align="center">
 
-## LET'S CONNECT
+I'm interested in Full Stack Development, web applications,
+software engineering, and freelance opportunities.
 
-Full Stack Development · Web Applications · Freelance Projects
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/nandkishor008">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.upwork.com/freelancers/~0128c29586f8863304">
-<img src="https://img.shields.io/badge/UPWORK-FREELANCE-14A800?style=for-the-badge&logo=upwork"/>
+<img src="https://img.shields.io/badge/Upwork-Freelance-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/Ltbc57sboI/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="mailto:kishornandu008@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-58A6FF?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:0D1117&height=130&section=footer&text=BUILD.%20LEARN.%20CREATE.&fontSize=24&fontColor=58A6FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:0D1117&height=140&section=footer&text=BUILD.%20LEARN.%20CREATE.&fontSize=24&fontColor=58A6FF&animation=fadeIn" width="100%" alt="Animated footer"/>
 
 </div>
